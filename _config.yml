@@ -1,7 +1,7 @@
-title: Preserve This Podcast
-description: Preserve This Podcast is a project funded by the Andrew W. Mellon Foundation. We want to make sure that podcasts don’t disappear as software formats change and RSS hosting services go down.
+title: Nerdcuentos
+description: Bienvenidos sean todos al podcast de historias curiosas, tecnología, juegos y un montón de ñoñerías.
 baseurl: ""
-url: "http://www.preservethispodcast.org"
+url: "http://www.nerdcuentos.com"
 
 # Markdown settings
 markdown: kramdown
@@ -26,12 +26,12 @@ plugins:
 
 # Podcast Feed settings
 title:          Preserve This Podcast
-email:          preservethispodcast@protonmail.com
-description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
-subtitle:       "A podcast about saving your podcast."
-url:            http://preservethispodcast.org/
+email:          nerdcuentos@gmail.com
+description:    "Este es un podcast semanal en el que Francisco Fierro y Macarena Millapán les contarán una historia diferente e interesante."
+#subtitle:       "."
+url:            http://www.nerdcuentos.com/
 language:       en-us
-author:         PreserveThisPodcast
+author:         NerdCuentos
 copyright:      "CC BY 4.0"
 
 feed:
