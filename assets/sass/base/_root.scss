@@ -180,7 +180,7 @@ section#intro {
 		background: url('../images/splash.png') no-repeat center center;
 		background-size:contain;
 		@include touch(){
-			background-image: url('../images/splash_mobile.gif');
+			background-image: url('../images/splash_mobile.png');
 		}
 	}
 }
