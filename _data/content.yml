@@ -17,12 +17,12 @@ episodes:
     embed_link: https://www.podbean.com/player-v2/?i=wa6za-fef948-pb&from=pb6admin&download=1&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&btn-skin=7&size=300
     download_link: https://mcdn.podbean.com/mf/web/8u564i/primerLanzamiento128.mp3
     exercises_link:
-    transcript_file: transcript-00prologue
+    transcript_file: transcript01-hoyo-en-uno
   - name: Ajuste su cinturon, listo despegue )O)
     embed_link: https://www.podbean.com/player-v2/?i=8yfzn-10080ed-pb&from=pb6admin&download=1&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&btn-skin=7&size=300
     download_link: https://mcdn.podbean.com/mf/web/9zvu37/segundoLanzamiento128.mp3
     exercises_link: 
-    transcript_file: trancript02-ajuste-su-cinturon-listos-despegue
+    transcript_file: transcript02-ajuste-su-cinturon-listos-despegue
   
 
 #   - name: Prepare your Files for Archiving

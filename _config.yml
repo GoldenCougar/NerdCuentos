@@ -1,4 +1,4 @@
-title: Nerdcuentos
+title: NerdCuentos
 description: Bienvenidos sean todos al podcast de historias curiosas, tecnología, juegos y un montón de ñoñerías.
 baseurl: ""
 url: "http://www.nerdcuentos.com"
@@ -25,7 +25,7 @@ plugins:
   - jekyll-sitemap
 
 # Podcast Feed settings
-title:          Preserve This Podcast
+title:          NerdCuentos
 email:          nerdcuentos@gmail.com
 description:    "Este es un podcast semanal en el que Francisco Fierro y Macarena Millapán les contarán una historia diferente e interesante."
 #subtitle:       "."
