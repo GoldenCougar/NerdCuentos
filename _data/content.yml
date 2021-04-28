@@ -10,7 +10,7 @@ applepodcasts_link: #
 googlepodcasts_link: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL25lcmRjdWVudG9zL2ZlZWQueG1s
 amazon_link: https://music.amazon.com/podcasts/Nerdcuentos
 spotifyPodcast_link: https://open.spotify.com/show/3BE3EwFLHsmyodOQJHXjOc
-rss_link: #
+rss_link: https://feed.podbean.com/nerdcuentos/feed.xml
 
 episodes:
   - name: Piloto alpha - Hoyo en uno 
