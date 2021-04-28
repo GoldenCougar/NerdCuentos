@@ -8,16 +8,16 @@ layout: default
 			<div class="columns is-centered is-vcentered">
 				<div class="column is-fullwidth has-text-centered">
 					<h2>
-						Keep your podcast talking
+						Bienvenidos a Nerdcuentos
 						<br />
-						For all who are listening
+						El podcast
 					</h2>
 				</div>
 			</div>
 		</div>
 	</div>
 	<a href="#episodes">
-		<div>Follow these steps</div>
+		<div>Nuestros episodios</div>
 		<span class="icon is-large">
 		  <i class="fas fa-l2x fa-play"></i>
 		</span>
@@ -27,7 +27,7 @@ layout: default
 {% if site.data.content.episodes %}
 <section id="episodes" class="section" name="podcast">
 	<div class="container">
-		<h2>LISTEN: how &amp; why to preserve your podcast</h2>
+		<h2>Escuchanos:  &amp; </h2>
 		{% for episode in site.data.content.episodes %}
 
 {% if episode.transcript_file %}
@@ -58,7 +58,7 @@ layout: default
 				</div>
 				<div class="column">
 					<h3>{{ episode.name }}</h3>
-					<a href="{{ episode.download_link }}">Download episode</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Read transcript</a>{% endif %}{% if episode.exercises_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.exercises_link }}" target="_blank">Do the exercises</a>{% endif %}
+					<a href="{{ episode.download_link }}">Descarga los episodios</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Read transcript</a>{% endif %}{% if episode.exercises_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.exercises_link }}" target="_blank">Do the exercises</a>{% endif %}
 				</div>
 			</div>
 
