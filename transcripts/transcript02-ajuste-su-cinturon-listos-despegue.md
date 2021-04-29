@@ -3,6 +3,14 @@
 En este capítulo les contaremos sobre una pequeña parte de la historia de la aeronáutica, algunos tipos de aeronaves ademá de historias variadas relativas a la creación de las mismas y a los avances tecnológicos que ayudaron a hacer realidad el suño de colonizar el cielo. Además de revisar la vida y legado de una mujer pionera en las alturas y la única que logró dar la vuelta al mundo volando sola, de sus logros tratará este episodio.
 
 
+![upload-image](https://cdn.britannica.com/78/164578-050-634E4E33/Amelia-Earhart.jpg)
+*Amelia Erhart*
+
+![upload-image](https://cdn.britannica.com/s:690x388,c:crop/69/152769-004-1FD2E12E/Childhood-home-Amelia-Earhart-Atchison-Kansas.jpg)
+
+*Hogar de Amelia en Kansas*
+
+
 **Bibliografía del capítulo**
 
 *B. (2020, 19 abril). Amelia Earhart. Biography. https://www.biography.com/explorer/amelia-earhart*
