@@ -3,18 +3,14 @@ layout: post
 title: "Ajuste su cinturón, listos, despegue )O)"
 date: 2021-04-13 09:00:00
 file: https://mcdn.podbean.com/mf/web/9zvu37/segundoLanzamiento128.mp3
-#file_itunes: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
-excerpt:  “The Podsucker” is a machine that Jason Scott built in his basement 15 years ago. Jason was trying to capture all the podcasts -- before they disappear. Preserve This Podcast is a series about how podcasts are disappearing. And what podcasters can do to save them. Follow along with our podcast preservation exercises by downloading the zine at preservethispodcast.org.
-summary: “The Podsucker” is a machine that Jason Scott built in his basement 15 years ago. Jason was trying to capture all the podcasts -- before they disappear. Preserve This Podcast is a series about how podcasts are disappearing. And what podcasters can do to save them. Follow along with our podcast preservation exercises by downloading the zine at preservethispodcast.org.
-duration: "04:52" #audio length in min
-length: "11409000" #filesize in byte
+#file_itunes:
+excerpt:  En este capítulo viajaremos en nuestra máquina temporal imaginaria a conocer a pintorescos personajes que vivieron hace solo unas décadas que nos dejaron récords, historias de superación y notables hazañas.
+summary: En este capítulo de historia hablamos sobre aviones y Amelia Erhart.
+duration: "97:38" #audio length in min
+length: "91541000" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 categories: episodes
 ---
 
-“The Podsucker” is a machine that Jason Scott built in his basement 15 years ago. Jason was trying to capture all the podcasts -- before they disappear. Preserve This Podcast is a series about how podcasts are disappearing. And what podcasters can do to save them. Follow along with our podcast preservation exercises by downloading the zine at [preservethispodcast.org](http://preservethispodcast.org/).
-
-* More about Jason Scott's podcast archiving work on [his website: ASCII by Jason Scott](http://ascii.textfiles.com/archives/844)
-* More about Dave Winer's RSS work on [his website: RSS on the desktop, 15 years later](http://scripting.com/2017/03/30/rssOnTheDesktop15YearsLater.html)
-* [Download/print our zine](http://preservethispodcast.org/#zine) from our website to prepare for Episode 1, coming out March 21st!
+En este capítulo viajaremos en nuestra máquina temporal imaginaria a conocer a pintorescos personajes que vivieron hace solo unas décadas que nos dejaron récords, historias de superación y notables hazañas.
