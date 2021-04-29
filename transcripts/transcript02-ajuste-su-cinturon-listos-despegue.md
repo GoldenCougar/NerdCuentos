@@ -25,6 +25,6 @@ En este capítulo les contaremos sobre una pequeña parte de la historia de la a
 
 *colaboradores de Wikipedia. (2021c, marzo 2). Historia de la aviación. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n#Siglo_XVIII-siglo_XIX:_Aeronaves_m%C3%A1s_ligeras_que_el_aire*
 
-*The Editors of Encyclopaedia Britannica. (2020). Amelia Earhart | Biography, Childhood, Disappearance, & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Amelia-Earhart*
+*The Editors of Encyclopaedia Britannica. (2020). Amelia Earhart, Biography, Childhood, Disappearance, & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Amelia-Earhart*
 
 
