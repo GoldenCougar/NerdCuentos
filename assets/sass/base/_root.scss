@@ -9,6 +9,7 @@ $blue: #A63A59;
 $pink: #99CC66;
 $pink-light: #c9eea4;
 $white: #FFFFFF;
+$black: #000000;
 
 $family-primary:  'Poppins', sans-serif;
 $family-secondary: 'Patrick Hand SC', cursive;
@@ -188,7 +189,7 @@ section#intro {
 section#episodes {
 	background:$blue;
 	h2 {
-		color:$white;
+		color:$black;
 		margin-bottom:$gap/4;
 		font-size:$size-3;
 		font-weight:$weight-bold;

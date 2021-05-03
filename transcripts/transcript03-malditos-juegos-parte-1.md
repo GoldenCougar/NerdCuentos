@@ -30,7 +30,7 @@ En este capitulo hablaremos a cerca de distintos videojuegos de los que se cuent
 
 *Alex Hall (Ben Drowned) - Interview - Arcade Attack. [https://www.arcadeattack.co.uk/alex-hall-ben-drowned/](https://www.arcadeattack.co.uk/alex-hall-ben-drowned/)*
 
-*Starting the Game | Jadusable en Patreon. [https://www.patreon.com/posts/starting-game-35080562](https://www.patreon.com/posts/starting-game-35080562)*
+*Starting the Game - Jadusable en Patreon. [https://www.patreon.com/posts/starting-game-35080562](https://www.patreon.com/posts/starting-game-35080562)*
 
 **Berzerk**
 
