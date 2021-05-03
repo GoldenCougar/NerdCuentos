@@ -13,18 +13,18 @@ En este capítulo les contaremos sobre una pequeña parte de la historia de la a
 
 **Bibliografía del capítulo**
 
-*B. (2020, 19 abril). Amelia Earhart. Biography. https://www.biography.com/explorer/amelia-earhart*
+*B. (2020, 19 abril). Amelia Earhart. Biography. [https://www.biography.com/explorer/amelia-earhart](https://www.biography.com/explorer/amelia-earhart)*
 
-*Bartunek, A. (2008). Pennsylvania Center for the Book. Pennsylvania Center for the Book. https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/Earhart__Amelia*
+*Bartunek, A. (2008). Pennsylvania Center for the Book. Pennsylvania Center for the Book. [(https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/Earhart__Amelia](https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/Earhart__Amelia)*
 
-*Biography - The Official Licensing Website of. (2018, 14 febrero). Amelia Earhart. https://www.ameliaearhart.com/biography/*
+*Biography - The Official Licensing Website of. (2018, 14 febrero). Amelia Earhart. [https://www.ameliaearhart.com/biography/](https://www.ameliaearhart.com/biography/)*
 
-*colaboradores de Wikipedia. (2021a, enero 21). Diego Marín Aguilera. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera*
+*colaboradores de Wikipedia. (2021a, enero 21). Diego Marín Aguilera. Wikipedia, la enciclopedia libre. [https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)*
 
-*colaboradores de Wikipedia. (2021b, marzo 2). Historia de la aviación. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n*
+*colaboradores de Wikipedia. (2021b, marzo 2). Historia de la aviación. Wikipedia, la enciclopedia libre. [https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n](https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n)*
 
-*colaboradores de Wikipedia. (2021c, marzo 2). Historia de la aviación. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n#Siglo_XVIII-siglo_XIX:_Aeronaves_m%C3%A1s_ligeras_que_el_aire*
+*colaboradores de Wikipedia. (2021c, marzo 2). Historia de la aviación. Wikipedia, la enciclopedia libre. [https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n#Siglo_XVIII-siglo_XIX:_Aeronaves_m%C3%A1s_ligeras_que_el_aire](https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n#Siglo_XVIII-siglo_XIX:_Aeronaves_m%C3%A1s_ligeras_que_el_aire)*
 
-*The Editors of Encyclopaedia Britannica. (2020). Amelia Earhart, Biography, Childhood, Disappearance, & Facts. Encyclopedia Britannica. https://www.britannica.com/biography/Amelia-Earhart*
+*The Editors of Encyclopaedia Britannica. (2020). Amelia Earhart, Biography, Childhood, Disappearance, & Facts. Encyclopedia Britannica. [https://www.britannica.com/biography/Amelia-Earhart](https://www.britannica.com/biography/Amelia-Earhart)*
 
 

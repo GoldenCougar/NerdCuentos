@@ -1,0 +1,1 @@
+En este capitulo hablaremos a cerca de distintos videojuegos de los que se cuentan historias, leyendas urbanas y creepypastas variados, muechos de ellos podrían sonarles de algo. Es una primera parte, por lo que podría existir una segunda, próximamente.
