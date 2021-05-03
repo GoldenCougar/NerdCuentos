@@ -12,7 +12,7 @@ En este capítulo les contaremos sobre una pequeña parte de la historia de la a
 *Hogar de Amelia en Kansas*
 
 
-## Bibliografía del capítulo
+### Bibliografía del capítulo
 
 *B. (2020, 19 abril). Amelia Earhart. Biography. [https://www.biography.com/explorer/amelia-earhart](https://www.biography.com/explorer/amelia-earhart)*
 
