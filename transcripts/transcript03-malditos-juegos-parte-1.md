@@ -39,5 +39,3 @@ En este capitulo hablaremos a cerca de distintos videojuegos de los que se cuent
 **Godzilla: Monster of Monsters**
 
 *NES Horror Legend Is Turning Into A Real Game (kotaku.com). [https://kotaku.com/nes-horror-legend-is-turning-into-a-real-game-1709410435](https://kotaku.com/nes-horror-legend-is-turning-into-a-real-game-1709410435)*
-
-Texto de prueba
