@@ -4,6 +4,7 @@ En este capítulo les contaremos sobre una pequeña parte de la historia de la a
 
 
 ![upload-image](https://cdn.britannica.com/78/164578-050-634E4E33/Amelia-Earhart.jpg){:style="height: 300px;"}
+
 *Amelia Erhart*
 
 ![upload-image](https://cdn.britannica.com/s:690x388,c:crop/69/152769-004-1FD2E12E/Childhood-home-Amelia-Earhart-Atchison-Kansas.jpg)
