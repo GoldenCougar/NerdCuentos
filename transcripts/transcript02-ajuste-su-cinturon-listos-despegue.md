@@ -1,4 +1,4 @@
-# Capítulo 2
+# Capítulo 2: Ajuste su cinturon, listo despegue )O)
 
 En este capítulo les contaremos sobre una pequeña parte de la historia de la aeronáutica, algunos tipos de aeronaves ademá de historias variadas relativas a la creación de las mismas y a los avances tecnológicos que ayudaron a hacer realidad el suño de colonizar el cielo. Además de revisar la vida y legado de una mujer pionera en las alturas y la única que logró dar la vuelta al mundo volando sola, de sus logros tratará este episodio.
 
@@ -12,7 +12,7 @@ En este capítulo les contaremos sobre una pequeña parte de la historia de la a
 *Hogar de Amelia en Kansas*
 
 
-**Bibliografía del capítulo**
+## Bibliografía del capítulo
 
 *B. (2020, 19 abril). Amelia Earhart. Biography. [https://www.biography.com/explorer/amelia-earhart](https://www.biography.com/explorer/amelia-earhart)*
 
