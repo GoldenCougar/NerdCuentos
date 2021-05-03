@@ -70,4 +70,3 @@ Thank you to these awesome articles that guided us on making our own RSS feed:
    * [Podcasting with Jekyll in 4 Steps](https://dyscribe.com/en/podcasting/podcasting-with-jekyll-in-4-steps.html)
    * [RSS Feeds and Jekyll Configuring RSS Feed and implementing into Jekyll](https://www.johnvincent.io/jekyll/rss-feed-with-jekyll/)
 
-Texto de prueba o:
