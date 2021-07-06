@@ -32,7 +32,13 @@ episodes:
     embed_link: https://www.podbean.com/player-v2/?i=ues8x-1036ef8-pb&from=pb6admin&download=1&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&btn-skin=7&size=300
     download_link: https://mcdn.podbean.com/mf/web/m29rkm/cap4-historiaMadera-128version.mp3
     exercises_link: 
-    transcript_file: transcript04-lo-que-no-necesitas-saber-sobre-la-madera
+    transcript_file: transcript04-lo-que-no-necesitas-saber-sobre-la-madera    
+  - name: Hedy Lamarr
+    embed_link: https://www.podbean.com/player-v2/?i=u52ek-107c9e4-pb&from=pb6admin&download=1&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&btn-skin=7&size=300
+    download_link: https://mcdn.podbean.com/mf/web/7nna25/capitulo5-128.mp3
+    exercises_link: 
+    transcript_file: transcript05-hedy-lamarr
+
   
 
 #  - name: 
